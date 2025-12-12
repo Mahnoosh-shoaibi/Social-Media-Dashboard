@@ -10,8 +10,6 @@ https://public.tableau.com/views/SocialMediaInteraction/Socialinteraction?:langu
 This Tableau dashboard provides insights into social media engagement across major platforms.  
 It visualizes key metrics such as Likes, Shares, and Comments, and helps identify which platforms, topics, and time periods generate the highest interaction.
 
-![Dashboard Preview](v0.9_Old/Ss_first.png)
-
 ### Features
 - KPI tiles showing platform performance  
 - Topic-based activity (Pricing, Product, Support, Marketing, etc.)  
