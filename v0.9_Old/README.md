@@ -6,7 +6,7 @@ https://public.tableau.com/views/FirstSocialMediaEngagement/MainDashboard
 
 
 
-![Old dashboard preview](v0.9_Old/Ss_first.png)
+![Dashboard Preview](v0.9_Old/Ss_first.png)
 
 
 This version represents the first design iteration with:
