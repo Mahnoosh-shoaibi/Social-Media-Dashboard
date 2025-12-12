@@ -4,7 +4,7 @@ Tableau dashboard analyzing social media engagement across platforms
 Explore the live dashboard here:  
 https://public.tableau.com/views/SocialMediaInteraction/Socialinteraction?:language=en-US
 
-![Dashboard Preview](Social%20media%20screenshot.png)
+![Dashboard Preview](v1.0_Final/Social%20media%20screenshot.png)
 
 
 This Tableau dashboard provides insights into social media engagement across major platforms.  
